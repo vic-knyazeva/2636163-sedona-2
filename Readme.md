@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Виктория Князева](https://up.htmlacademy.ru/htmlcss-individual/2/user/2636163).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya)
 
 ---
 
